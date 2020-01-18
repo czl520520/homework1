@@ -1,0 +1,9 @@
+img{
+    height: 150px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+   display: inline; 
+}
